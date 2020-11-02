@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="anadir">AÑADIR</string>
+    <string name="reset">RESET</string>
+    <string name="quitar">QUITAR</string>
+    <string name="_0">0</string>
+</resources>
